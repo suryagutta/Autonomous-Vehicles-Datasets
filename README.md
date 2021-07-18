@@ -1,6 +1,11 @@
 # Autonomous Vehicles Datasets for Machine Learning
-Comprehensive list of Autonomous Vehicles Datasets (papers and dataset download links) with multiple sensor modalities (LiDAR, RADAR, Stereo Camera, Thermal Camera etc.)
+Comprehensive list of Autonomous Vehicles Datasets (papers and dataset download links) with multiple sensor modalities (LiDAR, RADAR, Stereo Camera, Thermal Camera etc.).
 
+## Contributing
+<div align='center'><b>We Need You!</b><br>
+  Please help contribute this list by adding a <b>pull request</b>.</div>
+
+## Datasets
 A wide variety of sensors are used in autonomous vehicles. The diversity of sensing modalities helps in different weather conditions. The following is a popular list of autonomous driving datasets which have been published up to date.
 
 | Name | Published Year | Sensor Type(s) | Recording Area(s) | Description | Dataset Download and Paper(s) |
